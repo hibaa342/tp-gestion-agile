@@ -9,3 +9,12 @@ h1
     height: 100px;
     background: black;
 }
+
+.div2
+{
+    width: 200px;
+    height: 100px;
+    background: blue;
+    margin-top: 10px;
+
+}
